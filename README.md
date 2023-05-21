@@ -13,4 +13,4 @@
 * Webpack
 * Api
 
-Ссылка на GitHub Pages: https://inertialforce.github.io/mesto-project/
+Ссылка на GitHub Pages: https://kirill-karpachev.github.io/mesto-project/
